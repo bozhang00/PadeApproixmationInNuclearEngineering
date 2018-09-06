@@ -1,1 +1,1 @@
-# PadeApproixmationInNuclearEngineering
+# Pade Approixmation In Nuclear Engineering
